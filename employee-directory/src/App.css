@@ -1,15 +1,18 @@
 .App {
   text-align: center;
 }
-
+.lead {
+  color: #3f48cc
+}
+.jumbotron {
+  background-color: #c3c3c3;
+}
 table {
 width: 100%;
 }
 th, td {
   text-align: left;
   padding: 15px;
-  
-
 }
 
 .App-logo {
